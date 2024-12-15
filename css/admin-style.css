@@ -1,0 +1,14 @@
+#funthings-change-username {
+  padding: 10px !important;
+  background: rgba(235, 235, 235, 0.34);
+  border: 5px solid #e5e5e5;
+  box-sizing: border-box;
+  display: block;
+  border-radius: 5px;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  background-image: url(../images/fun-things.webp);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center right;
+}
