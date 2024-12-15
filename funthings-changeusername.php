@@ -205,3 +205,4 @@
 
 	// Initialize the plugin.
 	$funthings_change_username = new FUNTHINGS_Change_Username();
+
